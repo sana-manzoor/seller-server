@@ -1,0 +1,160 @@
+{
+  "products": [
+    {
+      "id": "101",
+      "pName": "Sling Bags",
+      "price": "₹800",
+      "Iurl": "https://m.media-amazon.com/images/I/81wNI1P-B8L._UY575_.jpg",
+      "category": "Handbags"
+    },
+    {
+      "id": "102",
+      "pName": "T-shirt",
+      "price": "₹1200",
+      "Iurl": "https://i5.walmartimages.com/asr/479dc571-5cd1-4163-9ac1-92649c5a0e34_1.30cb76a4bfce583dbba98fd6026978d7.jpeg",
+      "category": "Men's Wear"
+    },
+    {
+      "id": "103",
+      "pName": "T-shirt",
+      "price": "₹1200",
+      "Iurl": "https://modone.com/eng_pl_Mens-plain-t-shirt-S1037-yellow-13756_4.jpg",
+      "category": "Men's Wear"
+    },
+    {
+      "id": "104",
+      "pName": "Shirt",
+      "price": "₹1700",
+      "Iurl": "https://i.pinimg.com/originals/41/25/e9/4125e9ede1b6602bad22d6ff43cc6b4f.jpg",
+      "category": "Men's Wear"
+    },
+    {
+      "id": "106",
+      "pName": "Iphone",
+      "price": "₹1,17,000",
+      "Iurl": "https://th.bing.com/th/id/OIP.5pFzx7G6VQnb2T5BVHjc_wHaG9?w=189&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "category": "Mobile Phones"
+    },
+    {
+      "id": "107",
+      "pName": "Samsung",
+      "price": "₹67,000",
+      "Iurl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1gYaRO.img?w=800&h=600&m=4&q=75",
+      "category": "Mobile Phones"
+    },
+    {
+      "id": "109",
+      "pName": "Casuals",
+      "price": "₹1300",
+      "Iurl": "https://san-bro.com/wp-content/uploads/2019/09/Women-Flats-Summer-Women-Genuine-Leather-Shoes-With-Low-Heels-Slip-On-Casual-Flat-Shoes-Women-2.jpg",
+      "category": "Women's Shoes"
+    },
+    {
+      "id": "111",
+      "pName": "Casuals",
+      "price": "₹900",
+      "Iurl": "https://th.bing.com/th/id/OIP.MdISSIcBaf_laMt5wK2pdgHaG5?rs=1&pid=ImgDetMain",
+      "category": "Mens's Shoes"
+    },
+    {
+      "id": "6",
+      "pName": "Heels",
+      "price": "₹1150",
+      "Iurl": "https://s3-eu-west-1.amazonaws.com/images.linnlive.com/3f25aa9d1567d021dac96f3dcb03559f/68f807c2-d077-43b6-bae3-260086b40bb2.jpg",
+      "category": "Women's Shoes"
+    },
+    {
+      "id": "7",
+      "pName": "Heels",
+      "price": "₹900",
+      "Iurl": "https://th.bing.com/th/id/OIP.Lp-0fGntvGyy7Db3EMPtVwHaJQ?pid=ImgDet&w=200&h=250&c=7&dpr=1.3",
+      "category": "Women's Shoes"
+    },
+    {
+      "id": "9",
+      "pName": "Flats",
+      "price": "₹500",
+      "Iurl": "https://th.bing.com/th/id/OIP.OR_0kKaqIfbMm5d5dadXjgHaJ4?w=154&h=205&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "category": "Women's Shoes"
+    },
+    {
+      "id": "10",
+      "pName": "Slippers",
+      "price": "₹900",
+      "Iurl": "https://th.bing.com/th/id/OIP.yZ-wPL5xcKU3CRDE34YA8gHaIc?w=188&h=214&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "category": "Mens's Shoes"
+    },
+    {
+      "id": "12",
+      "pName": "Hoodie",
+      "price": "₹1500",
+      "Iurl": "https://th.bing.com/th/id/OIP.9y8eIP2mcN1_Tujb8Ot6QAHaJE?w=202&h=248&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "category": "Women's Wear"
+    },
+    {
+      "id": "14",
+      "pName": "Western Wear",
+      "price": "₹2600",
+      "Iurl": "https://m.media-amazon.com/images/I/61jlvPa9FqL.jpg",
+      "category": "Women's Wear"
+    },
+    {
+      "id": "15",
+      "pName": "Skirt",
+      "price": "₹1300",
+      "Iurl": "https://th.bing.com/th/id/OIP.6NXxw2WvtBj2G8Vlf2UtMQHaLH?w=202&h=303&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "category": "Women's Wear"
+    },
+    {
+      "id": "16",
+      "pName": "Handbags",
+      "price": "₹900",
+      "Iurl": "https://th.bing.com/th/id/OIP.PDkSo5RaO__USgTdbnlcHwHaHa?w=212&h=212&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "category": "Handbags"
+    }
+  ],
+  "categories": [
+    {
+      "id": "2",
+      "cName": "Men's Wear",
+      "Image": "https://th.bing.com/th/id/OIP.MF8oSEyxKTEgl1kbD62VvQHaHa?w=202&h=202&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "allProducts": []
+    },
+    {
+      "id": "3",
+      "cName": "Mobile Phones",
+      "Image": "https://www.refurbished.be/cache/images/iphone-12-combi-blauw_600x600_adaptiveResize_16777215.png",
+      "allProducts": []
+    },
+    {
+      "id": "4",
+      "cName": "Women's Shoes",
+      "Image": "https://i.pinimg.com/originals/0c/78/59/0c78596adb359d2dcf3d95600793fbef.jpg",
+      "allProducts": []
+    },
+    {
+      "id": "5",
+      "cName": "Mens's Shoes",
+      "Image": "https://images-na.ssl-images-amazon.com/images/I/811dduxFXYL._AC_UL1500_.jpg",
+      "allProducts": []
+    },
+    {
+      "id": "6",
+      "cName": "Women's Wear",
+      "Image": "https://i.pinimg.com/originals/3d/5a/e5/3d5ae581bc3b66989b40a847fb149933.jpg",
+      "allProducts": []
+    },
+    {
+      "id": "9",
+      "cName": "Handbags",
+      "Image": "https://th.bing.com/th/id/OIP.Aylm4FExvOTzCEYnxEBeZAHaHa?w=195&h=195&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "allProducts": []
+    },
+    {
+      "id": "7",
+      "cName": "Kids Wear",
+      "Image": "https://th.bing.com/th/id/OIP.D7hB_zYZSrEQB8teUXKcpwHaHa?w=210&h=210&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "allProducts": []
+    }
+  ]
+}
